@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IDEADemo.iml" filepath="$PROJECT_DIR$/IDEADemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module01/module01.iml" filepath="$PROJECT_DIR$/module01/module01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module01_day04_copy/module01_day04_copy.iml" filepath="$PROJECT_DIR$/module01_day04_copy/module01_day04_copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module01_teacher/module01_teacher.iml" filepath="$PROJECT_DIR$/module01_teacher/module01_teacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module01_teacher1/module01_teacher1.iml" filepath="$PROJECT_DIR$/module01_teacher1/module01_teacher1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module02_keymap/module02_keymap.iml" filepath="$PROJECT_DIR$/module02_keymap/module02_keymap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module02_templates/module02_templates.iml" filepath="$PROJECT_DIR$/module02_templates/module02_templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module03_debug/module03_debug.iml" filepath="$PROJECT_DIR$/module03_debug/module03_debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module04_java_01/module04_java_01.iml" filepath="$PROJECT_DIR$/module04_java_01/module04_java_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module04_java_web_01/module04_java_web_01.iml" filepath="$PROJECT_DIR$/module04_java_web_01/module04_java_web_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05_plugins/module05_plugins.iml" filepath="$PROJECT_DIR$/module05_plugins/module05_plugins.iml" />
+    </modules>
+  </component>
+</project>
